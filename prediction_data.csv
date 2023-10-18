@@ -1,0 +1,40 @@
+id,label,xmin,ymin,xmax,ymax,score,ocr_text,type,status,page_no,label_id
+abbc44de-6d6d-4700-b8bf-799d3a73a411,currency,0,0,0,0,1,USD,field,correctly_predicted,0,f8ff7188-ef3d-4799-9357-eb094d793212
+de04c736-6b41-4be0-87b4-b2778571d0c7,seller_phone,235,572,483,600,0.9388159,1-708-629-7301,field,correctly_predicted,0,46391056-47ab-4168-8573-5eed508c0457
+3ffaad4a-e76a-488a-82c7-a0937bc5a65f,shipto_name,229,682,630,715,0.87793213,GW PAULSON COMPANY,field,correctly_predicted,0,e2219b87-db4c-49c9-90de-e187c4d0189c
+e0b0c227-d045-401c-8ce4-1257dc1f87fe,shipto_name,581,896,639,922,0.40585735,LLC,field,correctly_predicted,0,e2219b87-db4c-49c9-90de-e187c4d0189c
+192e6187-afff-4ee8-8ddc-0803e98f2f15,shipto_address,226,733,543,762,0.8722659,4805 N. BASIN AVE .,field,correctly_predicted,0,0b29864a-8029-4dfb-b6e3-a7c088a85642
+f6c8abae-9096-469b-a635-5dc6707c1f41,invoice_amount,1383,1329,1542,1355,0.9680591,"5,341.912",field,correctly_predicted,0,95527c79-2285-495f-a352-ac81a5c43b2c
+6f837107-32e2-4601-b3b8-a0c287eb479c,invoice_amount,1710,1334,1841,1359,0.45904437,467.300,field,correctly_predicted,0,95527c79-2285-495f-a352-ac81a5c43b2c
+13d84ba4-13d2-47a7-9342-acb08ebe2447,seller_name,235,376,554,410,0.865838,Mannington Mills Inc.,field,correctly_predicted,0,2c4fec38-e2d0-459d-8799-00c8eaf6b845
+ead2e57e-1b1e-445e-9c13-c09aac213779,invoice_date,1662,431,1836,457,0.79586416,12/29/2019,field,correctly_predicted,0,607d8c82-4070-4d2f-8419-5a920faa97b5
+c96fce2e-433c-4320-81d8-7fc914b64e0d,seller_address,233,424,566,553,0.68438715,"100 Marine Dr
+CALHOUN GA 30701
+USA",field,correctly_predicted,0,2b60f581-9f6d-4444-87ef-ce8d959c8a7a
+b9d477f3-9314-4e08-b506-9ce885cef597,po_number,542,992,735,1025,0.8707889,CG900330-1,field,correctly_predicted,0,1fedd170-5ead-40ed-84ec-9444e05c77d5
+0485c081-b06b-4e8b-9a96-2ff93f61eb03,seller_name,235,376,554,410,0.865838,Mannington Mills Inc.,field,correctly_predicted,0,2c4fec38-e2d0-459d-8799-00c8eaf6b845
+a617512b-ce60-4923-b77d-08fa5ab44306,seller_phone,235,572,483,600,0.9388159,1-708-629-7301,field,correctly_predicted,0,46391056-47ab-4168-8573-5eed508c0457
+a1f8a9be-21d9-4484-b904-9bcc44ce6911,shipto_name,229,682,630,715,0.87793213,GW PAULSON COMPANY,field,correctly_predicted,0,e2219b87-db4c-49c9-90de-e187c4d0189c
+f15479d1-bc5b-4d25-9a45-d2f5c8e4ad64,shipto_name,581,896,639,922,0.40585735,LLC,field,correctly_predicted,0,e2219b87-db4c-49c9-90de-e187c4d0189c
+cefc2059-1455-492c-9110-4d240ad851ae,shipto_address,226,733,543,762,0.8722659,4805 N. BASIN AVE .,field,correctly_predicted,0,0b29864a-8029-4dfb-b6e3-a7c088a85642
+9493a62c-849a-43b0-83b6-3500f703a994,po_number,542,992,735,1025,0.8707889,CG900330-1,field,correctly_predicted,0,1fedd170-5ead-40ed-84ec-9444e05c77d5
+46c0081f-6644-4c54-9e18-956519bca1b2,invoice_amount,1383,1329,1542,1355,0.9680591,"5,341.912",field,correctly_predicted,0,95527c79-2285-495f-a352-ac81a5c43b2c
+71a9708c-5bf6-4ad0-975d-d97d470ed060,invoice_amount,1710,1334,1841,1359,0.45904437,467.300,field,correctly_predicted,0,95527c79-2285-495f-a352-ac81a5c43b2c
+5ccc585d-81dc-4e5d-80e3-6344392fec0b,currency,0,0,0,0,1,USD,field,correctly_predicted,0,f8ff7188-ef3d-4799-9357-eb094d793212
+332f5461-6f6b-4699-8778-ee851b2f4ba1,invoice_date,1662,431,1836,457,0.79586416,12/29/2019,field,correctly_predicted,0,607d8c82-4070-4d2f-8419-5a920faa97b5
+e6b29e3a-c6eb-408b-a06b-dd4a5d87edaf,seller_address,233,424,566,553,0.68438715,"100 Marine Dr
+CALHOUN GA 30701
+USA",field,correctly_predicted,0,2b60f581-9f6d-4444-87ef-ce8d959c8a7a
+01b45baf-c910-4856-8e64-28f677df0d08,invoice_amount,1383,1329,1542,1355,0.9680591,"5,341.912",field,correctly_predicted,0,95527c79-2285-495f-a352-ac81a5c43b2c
+127aead1-78f2-4522-a4d1-2b53b1acc300,invoice_amount,1710,1334,1841,1359,0.45904437,467.300,field,correctly_predicted,0,95527c79-2285-495f-a352-ac81a5c43b2c
+30faedf5-c7c5-4eee-a320-fa865765055b,currency,0,0,0,0,1,USD,field,correctly_predicted,0,f8ff7188-ef3d-4799-9357-eb094d793212
+ca701f1b-dd38-4260-b8b3-c6c77ca551a0,seller_name,235,376,554,410,0.865838,Mannington Mills Inc.,field,correctly_predicted,0,2c4fec38-e2d0-459d-8799-00c8eaf6b845
+d0367559-a681-494f-a046-e49f391f1dff,seller_address,233,424,566,553,0.68438715,"100 Marine Dr
+CALHOUN GA 30701
+USA",field,correctly_predicted,0,2b60f581-9f6d-4444-87ef-ce8d959c8a7a
+62efd3ee-0a1d-4b27-a16d-5bfe30adeb8e,shipto_name,229,682,630,715,0.87793213,GW PAULSON COMPANY,field,correctly_predicted,0,e2219b87-db4c-49c9-90de-e187c4d0189c
+dedae495-6503-4be4-a630-043e95fe1597,shipto_name,581,896,639,922,0.40585735,LLC,field,correctly_predicted,0,e2219b87-db4c-49c9-90de-e187c4d0189c
+f96b6b80-c4d9-4a0d-8e3f-8f6b0704ca2d,shipto_address,226,733,543,762,0.8722659,4805 N. BASIN AVE .,field,correctly_predicted,0,0b29864a-8029-4dfb-b6e3-a7c088a85642
+0916b9f7-9c96-48f4-ad58-4164778656a2,po_number,542,992,735,1025,0.8707889,CG900330-1,field,correctly_predicted,0,1fedd170-5ead-40ed-84ec-9444e05c77d5
+6077aea0-3866-4b7c-b0eb-9bf44e1790f6,invoice_date,1662,431,1836,457,0.79586416,12/29/2019,field,correctly_predicted,0,607d8c82-4070-4d2f-8419-5a920faa97b5
+5fdef1d6-af89-4731-a319-0e987947f531,seller_phone,235,572,483,600,0.9388159,1-708-629-7301,field,correctly_predicted,0,46391056-47ab-4168-8573-5eed508c0457
