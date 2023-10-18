@@ -1,14 +1,4 @@
-id,label,xmin,ymin,xmax,ymax,score,ocr_text,type,status,page_no,label_id
-578abe3c-c3ca-4a26-928e-b90e408a3e01,invoice_date,2254,199,2451,236,0.92366886,1/03/20,field,correctly_predicted,0,607d8c82-4070-4d2f-8419-5a920faa97b5
-47a1d9fe-d55c-4db3-8b16-37f1391f9c52,seller_address,171,244,754,372,0.49943975,"3201 N DALTON BYPASS
-PO BOX 2207
-DALTON , GA 30720",field,correctly_predicted,0,2b60f581-9f6d-4444-87ef-ce8d959c8a7a
-1579a38c-802a-432a-b5a3-28205b3cbaa9,client_id,2282,300,2446,330,0.55485666,107383,field,correctly_predicted,0,69b68684-b321-48f0-a7ff-56d32e8f1f66
-d78d7b85-5dd4-4c8c-bc34-5b504537e13a,buyer_address,163,533,573,711,0.46739432,"DBA / WHITAKER'S
-324 MAIN ST SE
-ALBANY",field,correctly_predicted,0,19ee6ecf-0113-4ec2-a020-aca4e9fd410a
-9f794555-3cc7-451a-8d64-0181917edc60,po_number,337,1070,535,1100,0.7659516,123119B,field,correctly_predicted,0,1fedd170-5ead-40ed-84ec-9444e05c77d5
-7c2835b3-905e-4841-82e3-356cf65725a9,seller_name,177,193,785,223,0.37703884,ENGINEERED FLOORS LLC,field,correctly_predicted,0,2c4fec38-e2d0-459d-8799-00c8eaf6b845
-989b3593-5eaa-4611-a0e0-ad25da714777,buyer_name,172,488,780,517,0.9596475,PSL ENTERPRISES INC,field,correctly_predicted,0,34350cf3-6574-401a-8af8-4d042b18d368
-c2a58467-278c-47d6-a4c0-3f8fc3095f44,buyer_name,1136,492,1745,520,0.2899007,PSL ENTERPRISES INC,field,correctly_predicted,0,34350cf3-6574-401a-8af8-4d042b18d368
-28b99134-bef5-4752-9a8e-ddb7a883ee47,shipto_address,1135,588,1537,618,0.67829496,324 MAIN ST SE,field,correctly_predicted,0,0b29864a-8029-4dfb-b6e3-a7c088a85642
+seller_name,invoice_date,seller_address,shipto_address,po_number,seller_phone,shipto_name,invoice_amount,currency
+Mannington Mills Inc.,12/29/2019,"100 Marine Dr
+CALHOUN GA 30701
+USA",4805 N. BASIN AVE .,CG900330-1,1-708-629-7301,GW PAULSON COMPANY,"5,341.912",USD
