@@ -1,7 +1,4 @@
-seller_address,seller_phone,table,currency,seller_email,shipto_address,buyer_vat_number,total_tax,subtax_name,seller_name,seller_vat_number,buyer_name,shipto_name,invoice_amount,invoice_number,invoice_date,buyer_address
-"At . Chamorshi Road , Mul
-Ta . Mul - 441224 , Dist- Chandrapur ( M.S )",9359447788,table,INR,sairicemill.walke@gmail.com,"BLDG NO . A - 8 , GALA NO.2 TO 5 , SHAKTI
-COMPLEX , SURVEY NO.20 HI SA NO.93
-AT VADUNAVGHAR , BHI VANDI , DI ST .",27AACCA8432H1ZQ,20.28,SGST,TANI SHQ AGRO INDUSTRI ES,27AAKPW5971 G1Z1,AVENUE SUPERMARTS LTD . ( VADUNAVGHAR ),AVENUE SUPERMARTS LTD . ( VADUNAVGHAR ),"1,18,587.30",315,08-06-2023,"BLDG NO . A - 8 , GALA NO.2 TO 5 , SHAKTI
-COMPLEX , SURVEY NO.20 HI SA NO.93
-AT VADUNAVGHAR , BHI VANDI , DI ST . THANE"
+po_number,seller_phone,invoice_date,seller_address,shipto_name,shipto_address,invoice_amount,currency,seller_name
+CG900330-1,1-708-629-7301,12/29/2019,"100 Marine Dr
+CALHOUN GA 30701
+USA",GW PAULSON COMPANY,4805 N. BASIN AVE .,"5,341.912",USD,Mannington Mills Inc.

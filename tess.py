@@ -4,7 +4,7 @@ import pytesseract
 from PIL import Image
 import re
 import json
-
+import os
 def extract_text_from_pdf(pdf_path, page_num):
     # Load the PDF file
     pdf_document = fitz.open(pdf_path)
@@ -125,9 +125,16 @@ def process(pdf_path):
     headers = data.keys()
 
     # Write the data to the CSV file
-    with open(csv_file_name, 'w', newline='') as csv_file:
+    csv_filename = "output.csv"
+
+    # Check if the CSV file already exists
+    file_exists = os.path.exists(csv_filename)
+
+    with open(csv_file_name, mode='a' if file_exists else 'w', newline='') as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=headers)
-        writer.writeheader()
+        if not file_exists:
+            # If the file doesn't exist, write the header
+            writer.writeheader()
         writer.writerow(data)
 
     print(f'CSV file "{csv_file_name}" created successfully.')
